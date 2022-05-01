@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\SorteCaixa\SorteCaixa\bin\Debug\SorteCaixa.exe.config
+C:\Users\admin\source\repos\SorteCaixa\SorteCaixa\bin\Debug\SorteCaixa.exe
+C:\Users\admin\source\repos\SorteCaixa\SorteCaixa\bin\Debug\SorteCaixa.pdb
+C:\Users\admin\source\repos\SorteCaixa\SorteCaixa\obj\Debug\SorteCaixa.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\SorteCaixa\SorteCaixa\obj\Debug\SorteCaixa.Form1.resources
+C:\Users\admin\source\repos\SorteCaixa\SorteCaixa\obj\Debug\SorteCaixa.Properties.Resources.resources
+C:\Users\admin\source\repos\SorteCaixa\SorteCaixa\obj\Debug\SorteCaixa.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\SorteCaixa\SorteCaixa\obj\Debug\SorteCaixa.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SorteCaixa\SorteCaixa\obj\Debug\SorteCaixa.exe
+C:\Users\admin\source\repos\SorteCaixa\SorteCaixa\obj\Debug\SorteCaixa.pdb
